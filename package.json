@@ -10,10 +10,12 @@
     "vue": "^3.2.25"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.4.0",
     "@vitejs/plugin-vue": "^2.0.0",
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.15",
-    "vite": "^2.7.2"
+    "vite": "^2.7.2",
+    "vite-svg-loader": "^3.1.2"
   }
 }
